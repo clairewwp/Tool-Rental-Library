@@ -1,0 +1,39 @@
+/Users/Claire/Desktop/toolLibrary/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.deps.json
+/Users/Claire/Desktop/toolLibrary/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.runtimeconfig.json
+/Users/Claire/Desktop/toolLibrary/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.runtimeconfig.dev.json
+/Users/Claire/Desktop/toolLibrary/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.dll
+/Users/Claire/Desktop/toolLibrary/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.pdb
+/Users/Claire/Desktop/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.csproj.AssemblyReference.cache
+/Users/Claire/Desktop/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Claire/Desktop/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.AssemblyInfoInputs.cache
+/Users/Claire/Desktop/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.AssemblyInfo.cs
+/Users/Claire/Desktop/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.csproj.CoreCompileInputs.cache
+/Users/Claire/Desktop/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.dll
+/Users/Claire/Desktop/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.pdb
+/Users/Claire/Desktop/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.genruntimeconfig.cache
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.deps.json
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.runtimeconfig.json
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.runtimeconfig.dev.json
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.dll
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.pdb
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.csproj.AssemblyReference.cache
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.AssemblyInfoInputs.cache
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.AssemblyInfo.cs
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.csproj.CoreCompileInputs.cache
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.dll
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.pdb
+/Users/Claire/Desktop/toolLibrary1/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.genruntimeconfig.cache
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.deps.json
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.runtimeconfig.json
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.runtimeconfig.dev.json
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.dll
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/bin/Debug/netcoreapp3.1/toolLibrary.pdb
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.csproj.AssemblyReference.cache
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.AssemblyInfoInputs.cache
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.AssemblyInfo.cs
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.csproj.CoreCompileInputs.cache
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.dll
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.pdb
+/Users/Claire/Desktop/OneDrive - Queensland University of Technology/Semester 3/IFN664/toolLibrary/toolLibrary/obj/Debug/netcoreapp3.1/toolLibrary.genruntimeconfig.cache
